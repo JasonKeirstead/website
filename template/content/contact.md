@@ -31,4 +31,4 @@ We currently have 2 projects that you can join.  The table below provides more i
 ### Contact Us
 Contact us for more details about sponsorship, or to learn more about the Alliance.
  
-{{< form-contact action="https://formspree.io/jory.burson@oasis-open.org" >}}
+{{< form-contact action="https://formspree.io/communications@oasis-open.org" >}}
